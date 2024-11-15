@@ -1,0 +1,16 @@
+.App {
+  display: flexbox;
+  align-items: center;
+  justify-content: center;
+  background: #d7c5c5;
+}
+
+.App h1 {
+  color: rgb(247, 103, 7);
+  text-align: center;
+}
+
+#tenth {
+  text-align: right;
+  padding-right: 50px;
+}
